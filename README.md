@@ -1,5 +1,4 @@
-# AMDS2025 Science Objective: Planetary Formation (Accretion)
-
+# AMDS2025 Science Objective: Planetary Architecture
 ## Objective
 
 To determine whether peas-in-a-pod formation or hierarchical accretion is dominant around young[^1] Sun-like stars by testing for a significant[^2] difference in the occurence rates of short period[^3] terrestrial[^4] planets in systems with and without larger[^5] gaseous planets on long period orbits[^6]. 
