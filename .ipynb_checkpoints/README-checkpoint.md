@@ -15,6 +15,6 @@ To determine whether peas-in-a-pod formation or hierarchical accretion is domina
 
 | Parameter | Minimum | Maximum | $\sigma$ |
 |-----------|---------|---------|----------|
-| Planet Radius| $1.5\,R_\oplus$| $13\,R_\oplus$| $0.1\,R_\oplus$ |
-| Orbital Period | $200\,d$ | $5000\,d$ | $1\,d$ |
+| Planet Radius| $`1.5\,R_\oplus`$| $`13\,R_\oplus`$| $`0.1\,R_\oplus`$ |
+| Orbital Period | $`200\,d`$ | $`5000\,d`$ | $`1\,d`$ |
 
