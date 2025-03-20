@@ -2,7 +2,14 @@
 
 ## Objective
 
-To determine whether peas-in-a-pod formation or hierarchical accretion is dominant around young (<1Gyr) Sun-like stars by testing for a significant (Bayes Factor threshold > 10) difference in the occurence rates of short period (<200 days) terrestrial (R<1.5 R_⊕) planets in systems with and without larger (R>1.5 R_⊕) gaseous planets on long period orbits (>200 days). 
+To determine whether peas-in-a-pod formation or hierarchical accretion is dominant around young[^1] Sun-like stars by testing for a significant[^2] difference in the occurence rates of short period[^3] terrestrial[^4] planets in systems with and without larger[^5] gaseous planets on long period orbits[^6]. 
+
+[^1]: $`<1\,Gyr`$
+[^2]: Bayes Factor threshold > 10
+[^3]: $`<200`$ days
+[^4]: $`R<1.5R_\oplus`$
+[^5]: $`R>1.5R_\oplus`$
+[^6]: $`>200`$ days
 
 ## Theoretical Model
 
