@@ -26,6 +26,15 @@ To determine whether peas-in-a-pod formation or hierarchical accretion is domina
 
 ## Observables
 
+- Flux from the host star.
+- Flux from the planet.
+- Orbital period of the planet.
+- Distance (parallax) to the host star. We can get this from catalogues.
+
+## Instrument
+
+- Flux ratio will determine required dynamic range
+- Minimum working angle of coronagraph 
 
 
 ## References
